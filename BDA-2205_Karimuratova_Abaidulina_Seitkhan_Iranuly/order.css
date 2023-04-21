@@ -1,0 +1,61 @@
+body{background-color: white!important; display: flex; flex-direction: column; height: 100vh;}
+.mainForOrder{ height: 100%; width: 80%; display: flex; flex-direction: row; justify-content: center; align-items: center;}
+.forForma{height: 85%;width: 100%; background-color: rgb(241,199,65); display: flex; flex-direction: row; justify-content: center;}
+.OrderNow:hover{box-shadow: 4px 0px 29px -5px #999999;}
+.forText1{width: 50%; padding-left: 3%; padding-top: 1%;padding-right: 4%;}
+.OrderNow{
+    color:rgb(3,51,79)!important;
+    background: rgb(241,199,65)!important;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 200px;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 3px solid transparent;
+    box-shadow: 4px 0px 29px -5px #9999996b;
+    padding-left:40%;
+    padding-right:40%;
+}
+.forOrderNow{padding-right: 4%; width:100%; margin-top: 2%!important; display: flex; flex-direction: row; justify-content: center;  margin-bottom: 4%;}
+.OrderNow:hover{box-shadow: 4px 0px 29px -5px #999999;}
+.forText1{width: 50%; padding-left: 3%; padding-top: 1%;padding-right: 4%;}
+h1{font-weight: 500!important;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(3,51,79)!important;
+    font-size: 150%;
+    text-align: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 14%;
+}
+.formDiv{ display: flex; flex-direction: row; width: 100%; height: max-content; margin-bottom: 4%; padding-left: 6%; padding-right: 6%;}
+#top{margin-top: 3%}
+.formDivName{border: 1px solid rgb(3,51,79);; display: flex; align-items: center; font-size: 95%; font-family: Arial, Helvetica, sans-serif;
+    background-color:  rgb(3,51,79); width: 40%; height: 100%; display: flex; color: white; padding-left: 5%; padding-top: 0.5%; padding-bottom: 0.5%;}
+.formDivForm{height: 100%;width:40%; border-radius: 0%; border: none;}
+a.forOrderButton{width: max-content;}
+.done{background-color: white; display:flex; flex-direction: column!important;align-items: center;}
+.imgDone{width: 30%;}
+#last{margin-bottom: 5%;}
+fieldset{box-shadow: 0px 0px 9px -2px white; padding-top: 3%; border-radius: 4px; padding-left: 3%; padding-right: 3%; font-size: 17px; background-color: white; width: 55%; height: 80%; min-height: max-content; display: flex; flex-direction: column; align-items: center;}
+input, select{font-size: 95%; align-self: center;}
+select{margin-bottom: 2%; margin-top: 1%; padding-top: 2%; padding-bottom: 2%; text-align: center;}
+input.a{width: 100%; height: 100%; padding-left: 3%;}
+select {width: 85%; font-size: 100%;}
+.navigation{width: 100%; height: 60px; background-color: white; display: flex;}
+.Link{width: max-content; background-color: white; display: flex; align-items: center; padding-left: 1%; padding-right: 1%;}
+.navigation a{text-decoration: none; color: black; font-family: Arial, Helvetica, sans-serif;}
+.titleLink{margin-right: 1%;}
+.forOptional{padding-left: 9%; width: 100%; height: max-content;display: flex; flex-direction: row;}
+.forRent{width: 100%; height: 100%;  display: flex; flex-direction: column;}
+.forMaintenanceAndParts{padding-left: 3%; width: 100%; height: 100%;  display: flex; flex-direction: column;}
+.forMaintenance{width: 100%; height: 100%;  display: flex; flex-direction: column;}
+.forParts{width: 100%; height: 100%; display: flex; flex-direction: column;}
+.general{justify-content: center;}
+.checkbox{font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(3,51,79)!important;}
+.done h1{text-align: center; padding: 0%!important; }
+.done{justify-content: center;}
+.forMaintenanceAndParts h1{text-align: left; padding-left: 0;}
+.forRent h1{padding-left: 0%; text-align: center;}

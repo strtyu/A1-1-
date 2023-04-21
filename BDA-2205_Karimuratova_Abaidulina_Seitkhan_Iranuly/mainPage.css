@@ -1,0 +1,155 @@
+body{background-color: rgb(3,51,79)!important; display: flex; flex-direction: column; height: max-content; width: 100%;}
+.mainInfo{ z-index:9; width: 100%;height: 578.5px; margin-bottom: 6%; display: flex;}
+.InformationForMain{background-color: rgba(255, 255, 255, 0.174); width: 40%; height: 100%; padding-left: 2%; padding-right: 2%; display: flex; flex-direction: column;  justify-content: end;}
+.forButtons{width: 100%; height: 17%; display: flex; flex-direction: row; margin-bottom: 7%;}
+.forMainMainInformation{width: 100%; height: max-content; margin-bottom: 3%; display: flex; flex-direction: column;  justify-content: end;}
+.text1{line-height: 120%; color: white; width: 100%; height:30%; margin-bottom: 1%; padding-left: 3%; padding-right: 3%; font-family: Arial, Helvetica, sans-serif; font-weight: 500!important;display: flex; flex-direction: column;  justify-content: end; font-size: 50px;} 
+.Slogan{width: 100%; height: 50%; margin-bottom: 1%; font-size: 30px; font-family: Arial, Helvetica, sans-serif; font-weight: 400!important; color: white; padding-left: 4%;}
+.p2 {font-family: Arial, Helvetica, sans-serif;}
+.car1{width: 700px; height: 500px;}
+.for-button2{display: flex; justify-content: center;}
+.forOurServices{display: flex; justify-content: center; background-color: rgb(83,90,99);font-size: 28px;
+    font-weight: 500;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif; 
+    width: 100%;
+    color:rgb(255, 255, 255)!important;
+}
+.a-b{
+    display: inline-block;
+    color:rgb(3,51,79)!important;
+    background: rgba(255, 255, 255, 0.902)!important;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 200px;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 3px solid transparent;
+    box-shadow: 4px 0px 29px -5px #9999999d;
+    width: fit-content;
+    padding-left: 27%;
+    padding-right: 27%;
+    height: fit-content;
+}
+.a-b:hover{box-shadow: 4px 0px 29px -5px rgb(74, 107, 127);
+    background-color: rgb(241,199,65)!important;
+    color:rgb(3,51,79)!important;}
+.forab{width:50%;}
+.ab1{margin-right: 3%; display: flex; justify-content: start; width: 40%; margin-left: 2%;}
+.mainInfoAboutServices{width: 100%; height:max-content; padding-bottom: 3%; display: flex; flex-direction: row; justify-content: space-evenly; margin-bottom: 3%;} 
+.Service{width: 26%; height: 100%; border-radius: 4%;}
+.Option{font-size: 24px;
+    font-weight: 500!important;
+    color:rgb(255, 255, 255)!important;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.OptionPicture{width: 96%; margin-left: 2%; margin-right: 2%; height: 190px; border-radius: 2%; box-shadow: 16px 17px 0px -3px rgba(255, 255, 255, 0.521);}
+.OptionPictureImg{width: 100%; height: 100%; border-radius: 2%;} 
+.OptionCarMaintenance{height: 100%!important;}
+.textForServiceDescription{margin-top: 12%; padding-left: 4%; padding-right: 4%; height: 30%; height: max-content; width: 100%; padding-bottom: 1%;
+    font-size: 18px;
+    font-weight: 500!important;
+    color:rgb(255, 255, 255)!important;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align:left;}
+.forMore{display: inline-block;
+    color:white;
+    font-size: 24px;
+    font-weight: 500;
+    border-radius: 200px;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 3px solid transparent;
+    width: fit-content;
+    margin-bottom: 3%;
+    margin-top: 1%;
+    padding-left: 15%;
+    padding-right: 15%;
+    border: 1.5px solid white;
+    background-color: rgb(3,51,79)!important;
+}
+.forMore:hover{
+    box-shadow: 4px 0px 29px -5px rgb(74, 107, 127);
+    border: none;
+    background-color: rgba(255, 255, 255, 0.418)!important;
+    color:rgb(3,51,79)!important;
+    border: 1.5px solid white;
+}
+ul{list-style-type: none; text-align: left;}
+.more{display: flex; justify-content: start; padding-left: 5%;}
+.forNews{
+    margin-left: 3.5%;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 40%;
+    margin-bottom: 3%;
+}
+.forTextAboutNews{height: 82%;margin-top: 0%;}
+.pictureForNews{width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center;}
+.pictureNews{width: 100%;}
+.NewstextText{width: 80%;height: 100%; margin-left: 3.5%; padding-left:3%; display:flex; flex-direction: column; justify-content: start; padding-right: 10%; padding-bottom: 0.5%;}
+h1{font-weight: 700!important;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(255, 255, 255)!important;}
+h4{ color:rgb(255, 255, 255)!important; font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+.forItalic{font-style: italic;}
+.OrderNow{
+    color:rgb(3,51,79)!important;
+    background: rgb(241,199,65)!important;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 3px 10px;
+    border-radius: 200px;
+    font-family: Arial, Helvetica, sans-serif; 
+    border: 3px solid transparent;
+    box-shadow: 4px 0px 29px -5px #9999996b;
+    padding-left:5%;
+    padding-right: 5%;
+}
+.forOrderNow{padding-left: 1%; justify-content: start; margin-top: 0.5%; margin-bottom: 0.5%; margin-left: 2%;}
+.OrderNow:hover{box-shadow: 4px 0px 29px -5px #999999;}
+.mainPicture{position: absolute; width: 100%; filter: brightness(50%)}
+.theMainPicture{width: 100%;}
+.AboutUs{background-color: white; margin-top: 5%;}
+.infoAboutUs{background-color: white; height: 100px; display: flex; flex-direction: row;padding-left: 1%; padding-bottom: 5%; padding-top: 2%; padding-right: 8%;}
+.Contacts{background-color: rgb(3,51,79);  color:white!important;}
+.infoContacts{background-color:rgb(3,51,79); justify-content: start;padding-left: 6%; flex-direction: row; padding-bottom: 2%; padding-top: 1.5%;}
+.forInfo{height: max-content; display: flex;}
+.forTop{width: 20%; height:max-content; border-top-right-radius: 30px; padding-top: 0.5%;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(3,51,79);
+    display: flex;
+    justify-content: center;
+}
+.forContactPicture{width: 5%;margin-top: 2%; margin-right: 2%;}
+img.contacts{width: 100%;}
+.forContactText{width: 10%; width: max-content; padding-top: 2%; display: flex; flex-direction: column; justify-content: center; font-size: 20px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:white;
+    padding-right: 1%;
+}
+.teamMember{width: 30%; height: 170px; font-weight: 500;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(3,51,79);
+    padding-right: 1%;
+    border: 1px solid rgb(3,51,79);
+    text-align: start;
+    margin-left: 3%;
+    padding-left: 2.5%;
+    box-shadow: 16px 17px 0px -3px rgb(3,51,79);
+}
+a.aService{text-decoration: none!important;color:rgb(3,51,79)!important;
+}
+a.aServiceMore{text-decoration: none!important;color:white!important;
+}
+.navigation{width: 100%; height: 60px; background-color: white; display: flex;}
+.Link{width: max-content; background-color: white; display: flex; align-items: center; padding-left: 1%; padding-right: 1%;}
+.navigation a{text-decoration: none; color: black; font-family: Arial, Helvetica, sans-serif;}
+.titleLink{margin-right: 1%;}
